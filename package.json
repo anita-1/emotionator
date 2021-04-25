@@ -1,0 +1,20 @@
+{
+  "name": "emotionator",
+  "version": "1.0.0",
+  "description": "foo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.5.0",
+    "@tensorflow/tfjs-core": "^3.5.0",
+    "@tensorflow/tfjs-node": "^3.5.0",
+    "@vladmandic/face-api": "^1.2.1",
+    "canvas": "^2.7.0",
+    "johnny-five": "^2.0.0",
+    "node-webcam": "^0.8.0"
+  }
+}
