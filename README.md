@@ -17,8 +17,4 @@ Reverse engineering an LED strip. It actually works.
 The discovery of a curse involving Canyon Creek where any SD card that enters the building will cause a BSOD on any computer they are inserted into.
 
 ## What's next for plAI list
-<<<<<<< HEAD
 Getting sleep
-=======
-Getting sleep
->>>>>>> 576977ad39001943179e80cf8cc5050ce8883493
